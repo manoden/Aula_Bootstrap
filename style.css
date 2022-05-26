@@ -4,7 +4,7 @@ body {
 }
 
 .navbar {
-    background-color: #298a08;
+    background-color: #41d310;
     text-align: justify;
 }
 
@@ -20,10 +20,15 @@ body {
 
 .parceiros {
     background-color: grey;
+    font: 50px Arial;
 
 }
 
 .bg-footer {
     background-color: black;
     color: white;
+}
+
+.servicos {
+    background-color: rgb(171, 196, 187);
 }
